@@ -1,5 +1,8 @@
 # vue-library
 
+Tutorial followed -
+[How to create, publish and use your own VueJS Component library](https://medium.com/justfrontendthings/how-to-create-and-publish-your-own-vuejs-component-library-on-npm-using-vue-cli-28e60943eed3)
+
 ## Project setup
 ```
 npm install
